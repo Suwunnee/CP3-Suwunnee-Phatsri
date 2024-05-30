@@ -1,0 +1,15 @@
+def addNumber(x,y):
+    print(x+y)
+addNumber(2,5)
+
+def decreaseNumber(a,b):
+    print(a-b)
+decreaseNumber(50,25)
+
+def multipleNumber(c,d):
+    print(c*d)
+multipleNumber(2,10)
+
+def devidedNumber(k,l):
+    print(k/l)
+devidedNumber(8,4)
